@@ -1,0 +1,39 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - libwebp (1.3.1):
+    - libwebp/demux (= 1.3.1)
+    - libwebp/mux (= 1.3.1)
+    - libwebp/sharpyuv (= 1.3.1)
+    - libwebp/webp (= 1.3.1)
+  - libwebp/demux (1.3.1):
+    - libwebp/webp
+  - libwebp/mux (1.3.1):
+    - libwebp/demux
+  - libwebp/sharpyuv (1.3.1)
+  - libwebp/webp (1.3.1):
+    - libwebp/sharpyuv
+  - SDWebImage/Core (5.18.0)
+  - SDWebImageWebPCoder (0.13.0):
+    - libwebp (~> 1.0)
+    - SDWebImage/Core (~> 5.17)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - SDWebImageWebPCoder
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - libwebp
+    - SDWebImage
+    - SDWebImageWebPCoder
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  libwebp: 33dc822fbbf4503668d09f7885bbfedc76c45e96
+  SDWebImage: 182830bcddc30cde95fbc60dfe4badc3553d94ba
+  SDWebImageWebPCoder: af09429398d99d524cae2fe00f6f0f6e491ed102
+
+PODFILE CHECKSUM: b3a076a576e4ad7c01d5de22dd13f502eefe3c44
+
+COCOAPODS: 1.12.1

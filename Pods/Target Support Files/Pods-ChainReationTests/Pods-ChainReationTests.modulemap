@@ -1,0 +1,6 @@
+framework module Pods_ChainReationTests {
+  umbrella header "Pods-ChainReationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

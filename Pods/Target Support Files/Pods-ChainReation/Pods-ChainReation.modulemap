@@ -1,0 +1,6 @@
+framework module Pods_ChainReation {
+  umbrella header "Pods-ChainReation-umbrella.h"
+
+  export *
+  module * { export * }
+}

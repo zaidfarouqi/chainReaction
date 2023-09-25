@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5841D257-B0B1-4D60-B449-D60C42646A01"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47DD229B-513D-46D9-B5FE-CC4FB81A1F4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChainReation/Modules/Map/ViewController/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47DD229B-513D-46D9-B5FE-CC4FB81A1F4C - d5646072ad592e9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChainReation.MapViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "ChainReation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zaidfarouqi/Projects/ChainReation/ChainReation/Modules/Map/ViewController/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "784">
+               </Location>
+               <Location
+                  uuid = "47DD229B-513D-46D9-B5FE-CC4FB81A1F4C - d5646072ad592ebd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChainReation.MapViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "ChainReation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zaidfarouqi/Projects/ChainReation/ChainReation/Modules/Map/ViewController/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "784">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "815A969B-5BBF-415C-ACEB-1DF31FD65C9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChainReation/Modules/Map/ViewController/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "815A969B-5BBF-415C-ACEB-1DF31FD65C9B - d5646072ad592f31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChainReation.MapViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "ChainReation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zaidfarouqi/Projects/ChainReation/ChainReation/Modules/Map/ViewController/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "815A969B-5BBF-415C-ACEB-1DF31FD65C9B - d5646072ad592ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChainReation.MapViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "ChainReation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zaidfarouqi/Projects/ChainReation/ChainReation/Modules/Map/ViewController/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
